@@ -7,7 +7,7 @@ This demo has been built on top of a modified version (extends) of [brunogaspar'
 
 
 ## Installation:
-- Download laravel via ZIP, or run `git clone git@github.com:noherczeg/pizzademo.git .` in your project's dir
+- Download this app via ZIP, or run `git clone git@github.com:noherczeg/pizzademo.git .` in your project's dir
 - run `composer install`
 - run `composer dump-autoload`
 - create a database, e.g.: "pizza_web" (if you coose an other name, modify the config!)
