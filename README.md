@@ -6,7 +6,7 @@ A Laravel 4 demo app
 This demo has been built on top of a modified version (extends) of [brunogaspar's L4 bootstrap app](https://github.com/brunogaspar), and is a simple demo project!
 
 
-# Installation:
+## Installation:
 - Download laravel via ZIP, or run `git clone git@github.com:laravel/laravel.git .` in your project's dir
 - check out the L4 bracnh: `git checkout develop`
 - run `composer install`
@@ -16,7 +16,7 @@ This demo has been built on top of a modified version (extends) of [brunogaspar'
 - create the migrations table `php artisan migrate:install`
 - and lastly seed the database: `php artisan migrate:refresh --seed`
 
-# Features:
+## Features:
 - Uses migrations
 - Uses the brand new seeding feature
 - Built with localizations in mind
@@ -26,7 +26,7 @@ This demo has been built on top of a modified version (extends) of [brunogaspar'
 - Controller based
 - Uses database sessions
 
-# Using the app:
+## Using the app:
 You can log in with a test account:
 ```
 email: test@test.com
