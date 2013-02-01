@@ -7,11 +7,9 @@ This demo has been built on top of a modified version (extends) of [brunogaspar'
 
 
 ## Installation:
-- Download laravel via ZIP, or run `git clone git@github.com:laravel/laravel.git .` in your project's dir
-- check out the L4 branch: `git checkout develop`
+- Download laravel via ZIP, or run `git clone git@github.com:noherczeg/pizzademo.git .` in your project's dir
 - run `composer install`
-- Download this "app" via ZIP somewhere and copy the contents into your project's folder (overwrite everything)
-- then run `composer dump-autoload`
+- run `composer dump-autoload`
 - create a database, e.g.: "pizza_web" (if you coose an other name, modify the config!)
 - create the migrations table `php artisan migrate:install`
 - and lastly seed the database: `php artisan migrate:refresh --seed`
