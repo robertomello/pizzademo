@@ -8,7 +8,7 @@ This demo has been built on top of a modified version (extends) of [brunogaspar'
 
 ## Installation:
 - Download laravel via ZIP, or run `git clone git@github.com:laravel/laravel.git .` in your project's dir
-- check out the L4 bracnh: `git checkout develop`
+- check out the L4 branch: `git checkout develop`
 - run `composer install`
 - Download this "app" via ZIP somewhere and copy the contents into your project's folder (overwrite everything)
 - then run `composer dump-autoload`
